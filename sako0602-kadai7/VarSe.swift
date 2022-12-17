@@ -18,7 +18,7 @@ enum CalculationErrorMessage {
 //    }
 //}
 
-struct VerSena: View {
+struct VarSe: View {
     
     @State private var firstNumText = ""
     @State private var secondNumText = ""
@@ -99,8 +99,8 @@ struct VerSena: View {
     }
 }
 
-struct VerSena_Previews: PreviewProvider {
+struct VerSe_Previews: PreviewProvider {
     static var previews: some View {
-        VerSena()
+        VarSe()
     }
 }
