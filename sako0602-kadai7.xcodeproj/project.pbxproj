@@ -14,7 +14,7 @@
 		690FA7C529459BF70033D79D /* sako0602_kadai7Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690FA7C429459BF70033D79D /* sako0602_kadai7Tests.swift */; };
 		690FA7CF29459BF70033D79D /* sako0602_kadai7UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690FA7CE29459BF70033D79D /* sako0602_kadai7UITests.swift */; };
 		690FA7D129459BF70033D79D /* sako0602_kadai7UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690FA7D029459BF70033D79D /* sako0602_kadai7UITestsLaunchTests.swift */; };
-		69B70B80294760F5007B0E6C /* ExperimentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B70B7F294760F5007B0E6C /* ExperimentView.swift */; };
+		69B70B80294760F5007B0E6C /* VerSena.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B70B7F294760F5007B0E6C /* VerSena.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,7 +46,7 @@
 		690FA7CE29459BF70033D79D /* sako0602_kadai7UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sako0602_kadai7UITests.swift; sourceTree = "<group>"; };
 		690FA7D029459BF70033D79D /* sako0602_kadai7UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sako0602_kadai7UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		690FA7DD2945A50B0033D79D /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		69B70B7F294760F5007B0E6C /* ExperimentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperimentView.swift; sourceTree = "<group>"; };
+		69B70B7F294760F5007B0E6C /* VerSena.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerSena.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +99,7 @@
 			children = (
 				690FA7B329459BEF0033D79D /* sako0602_kadai7App.swift */,
 				690FA7B529459BEF0033D79D /* ContentView.swift */,
-				69B70B7F294760F5007B0E6C /* ExperimentView.swift */,
+				69B70B7F294760F5007B0E6C /* VerSena.swift */,
 				690FA7DD2945A50B0033D79D /* MyPlayground.playground */,
 				690FA7B729459BF60033D79D /* Assets.xcassets */,
 				690FA7B929459BF60033D79D /* Preview Content */,
@@ -262,7 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				69B70B80294760F5007B0E6C /* ExperimentView.swift in Sources */,
+				69B70B80294760F5007B0E6C /* VerSena.swift in Sources */,
 				690FA7B629459BEF0033D79D /* ContentView.swift in Sources */,
 				690FA7B429459BEF0033D79D /* sako0602_kadai7App.swift in Sources */,
 			);
